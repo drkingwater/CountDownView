@@ -9,3 +9,4 @@
         android:layout_width="100dp"
         android:layout_height="100dp"/>
         
+countdownView.setCount(10)
